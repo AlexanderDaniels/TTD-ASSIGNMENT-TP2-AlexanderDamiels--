@@ -31,7 +31,7 @@ public class IntegerTest {
     // The methods must be annotated with annotation @Test. For example:
     //
     @Test
-    public void hello() {
+    public void integerTest() {
         Assert.assertEquals(intservice.add(2, 3), 5);
     }
 
